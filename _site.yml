@@ -5,5 +5,5 @@ href: index.html
 right: 
   output:
   html_document: "files/final_map copy.html"
-  theme: darkly
+  theme: Minimal
 html_document: "files/CoolMapHTML copy.html"
