@@ -1,0 +1,9 @@
+name: "map-website"
+left:
+  - text: "Home"
+href: index.html
+right: 
+  output:
+  html_document: "files/final_map copy.html"
+  theme: darkly
+html_document: "files/CoolMapHTML copy.html"

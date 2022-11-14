@@ -1,0 +1,18 @@
+---
+title: "Final Map Project"
+author: "Jack Hutton"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    includes:
+      after_body: files/CoolMapHTML copy.html
+---
+
+This is a map showing the discrepancies in in-school-suspensions between races, as well as people in special education programs and the economically disadvantaged, in Texas public school districts in 2015.
+
+<html src="files/final_map copy.html" style="width:100%">
+
+This is a map outlying all the Texas public school districts and their zoning boundaries.
+
+<html src="files/CoolMapHTML copy.html" style="width:100%">
+
